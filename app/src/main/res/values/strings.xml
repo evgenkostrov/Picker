@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Picker</string>
+    <string-array name="man_names">
+        <item>Fedor</item>
+        <item>Ivan</item>
+        <item>Rodion</item>
+        <item>Vladimir</item>
+        <item>Nike</item>
+
+    </string-array>
+</resources>
