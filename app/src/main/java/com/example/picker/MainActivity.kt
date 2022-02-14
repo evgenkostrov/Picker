@@ -16,7 +16,7 @@ class MainActivity : AppCompatActivity() {
         number.minValue=0
         number.maxValue=4
         number.displayedValues = names
-        number.setOnValueChangedListener { picker, oldVal, newVal ->  text.text="I will always love you ${names[newVal]}" }
+        number.setOnValueChangedListener { picker, oldVal, newVal ->  text.text=getText(R.string.text_expression)}
 
 
 
